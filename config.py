@@ -14,67 +14,11 @@ UPDATE_CHNL = getenv("UPDATE_CHNL", None)
 OWNER_USERNAME = getenv("OWNER_USERNAME", None)
 
 # Random Start Images
-IMG = [
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://telegra.ph//file/0879fbdb307005c1fa8ab.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://telegra.ph//file/b5fa277081dddbddd0b12.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://telegra.ph//file/09c9ea0e2660efae6f62a.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-    "https://graph.org/file/da16173af806c378c63d6.jpg",
-]
+IMG = ["https://graph.org/file/03d83996e9844a9d4253d.jpg"]
 
 
 # Random Stickers
-STICKER = [
-    "CAACAgQAAxkBAALRi2NZXUgjZCT775L5Nr0XrLbQ6XIpAAK_EQACpvFxHq2xh5JRVJNrKgQ",
-    "CAACAgQAAxkBAALRjGNZXUs6YPggISBdtg4nXaU0vjNzAALqCwACbCIRU61ZQKi3F88DKgQ",
-    "CAACAgQAAxkBAALRjWNZXUvETcfHR2Yi9ftTQLLP2uD8AAIVDAAC1SMQU-QrCHEcbz8rKgQ",
-]
+STICKER = ["CAACAgQAAx0Cc5FaWgACfs1lDRc1EzcDLyKtTOKyZxgWSZ81owACshAAAiK62FGioMf3-u8fWzAE"]
 
 
-EMOJIOS = [
-    "💣",
-    "💥",
-    "🪄",
-    "🧨",
-    "⚡",
-    "🤡",
-    "👻",
-    "🎃",
-    "🎩",
-    "🕊",
-]
+EMOJIOS = ["🕊"]
